@@ -1,5 +1,6 @@
 # 💫 Sobre mim:
 Olá, sou o Gui, bem vindo ao meu perfil!
+Dev. Flutter Jr.
 
 
 ## 🌐 Socias:
